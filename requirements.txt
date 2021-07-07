@@ -18,3 +18,4 @@ future
 psutil
 wget
 tswift
+git+https://github.com/pytgcalls/pytgcalls
